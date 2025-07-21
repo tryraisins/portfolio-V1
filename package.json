@@ -36,7 +36,6 @@
     "popper.js": "^1.16.1",
     "vanilla-tilt": "^1.7.2"
   },
-  "main": "index.html",
   "directories": {
     "example": "examples"
   }
