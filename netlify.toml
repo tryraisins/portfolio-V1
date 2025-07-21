@@ -1,3 +1,0 @@
-[build]
-  publish = "src"  # Points to the folder containing index.html
-  command = ""     # No build command needed for static HTML
